@@ -6,7 +6,7 @@ Dodatkowo, w przypadku zadań 4 i 5 pojawiają się jeszcze dodatkowe wymagania.
 
 ## Zadanie 4
 
-Plik `zad4.py` powinien zawierać dwie funkcje o pdanych niżej sygnaturach:
+Plik `zad4.py` powinien zawierać dwie funkcje o podanych niżej sygnaturach:
 
 ```python
 def encode_qr(message: str, qr_code_path: str) -> None:
